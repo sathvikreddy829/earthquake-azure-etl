@@ -1,4 +1,4 @@
-Developed an ETL pipeline in Azure, utilizing Python and JSON for data extraction and transformation. 
+Developed an ETL pipeline in Azure, using Python and JSON for data extraction and transformation. 
 
 Implemented error handling, including network and HTTP exceptions, and employed dictionary comprehensions for efficient data processing and interaction with ADLS paths.
 
